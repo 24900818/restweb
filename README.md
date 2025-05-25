@@ -289,16 +289,28 @@ a{
 ```
 
 ## OUTPUT:
-(<Screenshot 2025-05-05 183235.png>)
-![alt text](<Screenshot 2025-05-05 183251.png>)
-![alt text](<Screenshot 2025-05-05 183320.png>)
-![alt text](<Screenshot 2025-05-05 183337.png>)
-![alt text](<Screenshot 2025-05-05 183706.png>)
-![alt text](<Screenshot 2025-05-05 183720.png>)
-![alt text](<Screenshot 2025-05-05 183735.png>)
-![alt text](<Screenshot 2025-05-05 183351.png>)
-![alt text](image.png)
-![alt text](<Screenshot 2025-05-05 183408.png>)
-![alt text](<Screenshot 2025-05-05 183422.png>)
+![image](https://github.com/user-attachments/assets/0c3171a9-f9eb-4444-9670-ebf4ff556735)
+
+![image](https://github.com/user-attachments/assets/d5e4b063-c525-4a97-a437-d9d28886030b)
+
+![image](https://github.com/user-attachments/assets/e7661fbe-bac7-434f-983a-bda107bdcb09)
+
+![image](https://github.com/user-attachments/assets/50228e93-2d5a-4082-838a-aecbb23d38e9)
+
+![image](https://github.com/user-attachments/assets/4022cb71-adfa-4acb-836a-616958a1eb9f)
+
+![image](https://github.com/user-attachments/assets/ba7d31a9-2ea4-477b-8537-6eb45b637ad9)
+
+![image](https://github.com/user-attachments/assets/6307ed20-acbb-48d9-a049-1bc17c4f464d)
+
+![image](https://github.com/user-attachments/assets/fbe9300e-dc75-4b4d-8ea1-8b5d979d45e3)
+
+![image](https://github.com/user-attachments/assets/42e87794-c5e3-4893-b383-4f62d4914463)
+
+![image](https://github.com/user-attachments/assets/996cc97e-cc42-453f-8eac-f6dc7151110b)
+
+![image](https://github.com/user-attachments/assets/520665c0-6d70-4f73-9054-919f95700ddc)
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
