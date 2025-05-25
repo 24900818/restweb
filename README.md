@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date:24/05/2025
 
 ## AIM:
@@ -289,7 +289,7 @@ a{
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-05 183235.png>)
+(<Screenshot 2025-05-05 183235.png>)
 ![alt text](<Screenshot 2025-05-05 183251.png>)
 ![alt text](<Screenshot 2025-05-05 183320.png>)
 ![alt text](<Screenshot 2025-05-05 183337.png>)
@@ -300,7 +300,5 @@ a{
 ![alt text](image.png)
 ![alt text](<Screenshot 2025-05-05 183408.png>)
 ![alt text](<Screenshot 2025-05-05 183422.png>)
-
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
